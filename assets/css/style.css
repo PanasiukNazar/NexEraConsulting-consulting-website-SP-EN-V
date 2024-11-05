@@ -56,7 +56,7 @@
 
 /* line 72, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_color.scss */
 .theme-bg {
-    background: #603f83ff;
+    background: #fc766aff;
 }
 
 /* line 75, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_color.scss */
@@ -82,7 +82,7 @@
 
 /* line 90, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_color.scss */
 .theme-color {
-    color: #603f83ff;
+    color: #fc766aff;
 }
 
 /*------------------- Responsive --------------------------*/
@@ -93,26 +93,26 @@
 /* line 63, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_variables.scss */
 .boxed-btn {
     background: #fff;
-    color: #603f83ff !important;
+    color: #fc766aff !important;
     display: inline-block;
     padding: 18px 44px;
     font-family: 'Rufina', serif;
     font-size: 14px;
     font-weight: 400;
     border: 0;
-    border: 1px solid #603f83ff;
+    border: 1px solid #fc766aff;
     letter-spacing: 3px;
     text-align: center;
-    color: #603f83ff;
+    color: #fc766aff;
     text-transform: uppercase;
     cursor: pointer;
 }
 
 /* line 80, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_variables.scss */
 .boxed-btn:hover {
-    background: #603f83ff;
+    background: #fc766aff;
     color: #fff !important;
-    border: 1px solid #603f83ff;
+    border: 1px solid #fc766aff;
 }
 
 /* line 85, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_variables.scss */
@@ -537,7 +537,7 @@ hr {
     top: 0;
     width: 101%;
     height: 101%;
-    background: #603f83ff;
+    background: #fc766aff;
     z-index: 1;
     border-radius: 5px;
     transition: transform 0.5s;
@@ -558,7 +558,7 @@ hr {
 /* line 296, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_common.scss */
 .header-btn {
     padding: 27px 31px;
-    background: #603f83ff;
+    background: #fc766aff;
 }
 
 /* line 299, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_common.scss */
@@ -588,7 +588,7 @@ hr {
 
 /* line 318, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_common.scss */
 .hero-btn::before {
-    background: #603f83ff;
+    background: #fc766aff;
 }
 
 /* line 323, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_common.scss */
@@ -612,8 +612,8 @@ hr {
 
 /* line 339, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_common.scss */
 .border-btn {
-    border: 2px solid #603f83ff;
-    color: #603f83ff;
+    border: 2px solid #fc766aff;
+    color: #fc766aff;
     font: 'Rufina', serif;
     background: none;
     border-radius: 5px;
@@ -643,7 +643,7 @@ hr {
     top: 0;
     width: 100%;
     height: 100%;
-    background: #603f83ff;
+    background: #fc766aff;
     z-index: -1;
     transition: transform 0.5s;
     transition-timing-function: ease;
@@ -661,7 +661,7 @@ hr {
 
 /* line 385, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_common.scss */
 .send-btn {
-    background: #603f83ff;
+    background: #fc766aff;
     color: #fff;
     font-size: 14px;
     width: 100%;
@@ -685,7 +685,7 @@ hr {
     width: 100%;
     height: 100%;
     background: #e6373d;
-    color: #603f83ff;
+    color: #fc766aff;
     z-index: -1;
     transition: transform 0.5s;
     transition-timing-function: ease;
@@ -711,7 +711,7 @@ hr {
 /* line 433, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_common.scss */
 #scrollUp,
 #back-top {
-    background: #603f83ff;
+    background: #fc766aff;
     height: 50px;
     width: 50px;
     right: 31px;
@@ -2486,7 +2486,7 @@ hr {
     position: relative;
     border-style: solid;
     border-width: 1px;
-    border-top-color: #603f83ff;
+    border-top-color: #fc766aff;
     border-bottom-color: transparent;
     border-left-color: transparent;
     border-right-color: transparent;
@@ -2860,7 +2860,7 @@ hr {
     font-size: 16px;
     font-weight: 500;
     margin-bottom: 22px;
-    color: #603f83ff;
+    color: #fc766aff;
     display: inline-block;
 }
 
@@ -2934,7 +2934,7 @@ hr {
 
 /* line 72, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_color.scss */
 .theme-bg {
-    background: #603f83ff;
+    background: #fc766aff;
 }
 
 /* line 75, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_color.scss */
@@ -2960,7 +2960,7 @@ hr {
 
 /* line 90, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_color.scss */
 .theme-color {
-    color: #603f83ff;
+    color: #fc766aff;
 }
 
 /* line 3, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_headerMenu.scss */
@@ -3048,7 +3048,7 @@ hr {
     content: '';
     left: 0;
     bottom: 20px;
-    background: #603f83ff;
+    background: #fc766aff;
     height: 1px;
     width: 0;
     transition: 0.3s;
@@ -3056,7 +3056,7 @@ hr {
 
 /* line 61, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_headerMenu.scss */
 .main-header .main-menu ul li:hover > a {
-    color: #603f83ff;
+    color: #fc766aff;
 }
 
 /* line 66, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_headerMenu.scss */
@@ -3093,7 +3093,7 @@ hr {
 
 /* line 86, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_headerMenu.scss */
 .main-header .main-menu ul ul.submenu > li > a:hover {
-    color: #603f83ff;
+    color: #fc766aff;
     background: none;
 }
 
@@ -3102,7 +3102,7 @@ hr {
     position: absolute;
     content: '';
     left: -5px;
-    background: #603f83ff;
+    background: #fc766aff;
     height: 2px;
     width: 0;
     transition: 0.3s;
@@ -3179,12 +3179,12 @@ hr {
 /* line 156, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_headerMenu.scss */
 .mobile_menu .slicknav_menu .slicknav_nav a:hover {
     background: transparent;
-    color: #603f83ff;
+    color: #fc766aff;
 }
 
 /* line 160, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_headerMenu.scss */
 .mobile_menu .slicknav_menu .slicknav_icon-bar {
-    background-color: #603f83ff !important;
+    background-color: #fc766aff !important;
 }
 
 /* line 163, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_headerMenu.scss */
@@ -3366,7 +3366,7 @@ hr {
 .slider-area .single-slider .slider-cap-wrapper .hero__caption p {
     margin-bottom: 30px;
     display: block;
-    color: #603f83ff;
+    color: #fc766aff;
     font-size: 18px;
     font-weight: 500;
 }
@@ -3765,7 +3765,7 @@ hr {
 
 /* line 363, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_h1-hero.scss */
 .section-bg {
-    background: #603f83ff;
+    background: #fc766aff;
 }
 
 /* line 4, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_about.scss */
@@ -3923,7 +3923,7 @@ hr {
     content: '';
     left: 0;
     bottom: 0px;
-    background: #603f83ff;
+    background: #fc766aff;
     height: 3px;
     width: 0;
     -webkit-transition: all 0.4s ease-out 0s;
@@ -3936,7 +3936,7 @@ hr {
 
 /* line 43, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_services_section.scss */
 .services-area .single-cat .cat-icon span {
-    color: #603f83ff;
+    color: #fc766aff;
     font-size: 50px;
     margin-bottom: 30px;
     display: block;
@@ -3978,7 +3978,7 @@ hr {
 
 /* line 67, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_services_section.scss */
 .services-area .single-cat .cat-cap h5 > a:hover {
-    color: #603f83ff;
+    color: #fc766aff;
 }
 
 /* line 72, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_services_section.scss */
@@ -4020,7 +4020,7 @@ hr {
     position: absolute;
     content: '';
     height: 100%;
-    border-right: 30px solid #603f83ff;
+    border-right: 30px solid #fc766aff;
     right: 0;
     z-index: 0;
     top: 0;
@@ -4425,7 +4425,7 @@ hr {
     border: 5px solid #fff;
     width: 100%;
     height: 60px;
-    background: #603f83ff;
+    background: #fc766aff;
     line-height: 1;
     text-align: center;
     color: #fff;
@@ -4465,7 +4465,7 @@ hr {
 
 /* line 20, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_team.scss */
 .team-area .single-team .team-caption h3 a:hover {
-    color: #603f83ff;
+    color: #fc766aff;
 }
 
 /* line 25, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_team.scss */
@@ -4655,7 +4655,7 @@ hr {
     color: #fff;
     opacity: 0;
     visibility: hidden;
-    background: #603f83ff;
+    background: #fc766aff;
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
@@ -4815,7 +4815,7 @@ hr {
 
 /* line 55, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_footer.scss */
 .footer-area .footer-tittle ul li a:hover {
-    color: #603f83ff;
+    color: #fc766aff;
     padding-left: 5px;
 }
 
@@ -4884,12 +4884,12 @@ hr {
 
 /* line 107, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_footer.scss */
 .footer-area .footer-bottom .footer-copy-right p i {
-    color: #603f83ff;
+    color: #fc766aff;
 }
 
 /* line 110, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_footer.scss */
 .footer-area .footer-bottom .footer-copy-right p a {
-    color: #603f83ff;
+    color: #fc766aff;
 }
 
 /* line 2, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_services.scss */
@@ -4909,7 +4909,7 @@ hr {
     content: '';
     width: 75px;
     height: 3px;
-    background: #603f83ff;
+    background: #fc766aff;
     left: 0;
     top: 52%;
     transform: translateY(-50%);
@@ -5217,7 +5217,7 @@ hr {
 
 /* line 52, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_blog_page.scss */
 .home-blog-area .single-blogs .blog-captions h2 a:hover {
-    color: #603f83ff;
+    color: #fc766aff;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -5253,7 +5253,7 @@ hr {
 
 /* line 72, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_blog_page.scss */
 .home-blog-area .single-blogs .blog-captions span {
-    color: #603f83ff;
+    color: #fc766aff;
     font-size: 16px;
     font-weight: 400;
     margin-bottom: 27px;
@@ -5263,7 +5263,7 @@ hr {
 
 /* line 84, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_blog_page.scss */
 .single-blogs .blog-captions a:hover::before {
-    background: #603f83ff;
+    background: #fc766aff;
 }
 
 /* line 89, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_blog_page.scss */
@@ -5288,7 +5288,7 @@ hr {
 /* line 111, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_blog_page.scss */
 .blog_area a:hover,
 .blog_area a :hover {
-    background: -webkit-linear-gradient(131deg, #603f83ff 0%, #603f83ff 99%);
+    background: -webkit-linear-gradient(131deg, #fc766aff 0%, #fc766aff 99%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-decoration: none;
@@ -5884,7 +5884,7 @@ hr {
     left: 10px;
     display: block;
     color: #fff;
-    background-color: #603f83ff;
+    background-color: #fc766aff;
     padding: 8px 15px;
     border-radius: 5px;
 }
@@ -5979,7 +5979,7 @@ hr {
 
 /* line 791, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_blog_page.scss */
 .blog_right_sidebar .search_widget .input-group button {
-    background: #603f83ff;
+    background: #fc766aff;
     border-left: 0;
     border: 1px solid #f0e9ff;
     padding: 4px 15px;
@@ -6117,7 +6117,7 @@ hr {
 
 /* line 942, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_blog_page.scss */
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-    background: #603f83ff;
+    background: #fc766aff;
     color: #fff !important;
     -webkit-text-fill-color: #fff;
     text-decoration: none;
@@ -8472,12 +8472,12 @@ del {
     display: none;
 }
 header i {
-    color: #603f83ff;
+    color: #fc766aff;
     font-size: 32px;
     text-align: center;
 }
 header h2 {
-    color: #603f83ff;
+    color: #fc766aff;
     font-weight: 500;
     text-align: center;
 }
@@ -8485,7 +8485,7 @@ header h2 {
     text-align: center;
 }
 .data p a {
-    color: #603f83ff;
+    color: #fc766aff;
     text-decoration: none;
     text-align: center !important;
 }
@@ -8497,10 +8497,10 @@ header h2 {
     text-align: center;
 }
 .buttons .cookie-button {
-    border: 2px solid #603f83ff;
+    border: 2px solid #fc766aff;
     color: #fff;
     padding: 8px 0;
-    background: #603f83ff;
+    background: #fc766aff;
     cursor: pointer;
     width: calc(100% / 2 - 10px);
     transition: all 0.2s ease;
@@ -8509,14 +8509,14 @@ header h2 {
 }
 .buttons #acceptBtn:hover {
     background-color: transparent;
-    color: #603f83ff;
+    color: #fc766aff;
 }
 #declineBtn {
     background-color: #fff;
-    color: #603f83ff;
+    color: #fc766aff;
     border-radius: 0;
 }
 #declineBtn:hover {
-    background-color: #603f83ff;
+    background-color: #fc766aff;
     color: #fff;
 }
